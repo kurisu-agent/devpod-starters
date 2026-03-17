@@ -1,4 +1,0 @@
-nextjs|Next.js with TypeScript and Tailwind CSS
-astro|Astro with TypeScript and Tailwind CSS
-vite|Vite with TypeScript
-tanstack-start|TanStack Start with TypeScript
