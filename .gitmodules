@@ -1,0 +1,12 @@
+[submodule "repos/nextjs"]
+	path = repos/nextjs
+	url = https://github.com/kurisu-agent/devpod-starter-nextjs.git
+[submodule "repos/astro"]
+	path = repos/astro
+	url = https://github.com/kurisu-agent/devpod-starter-astro.git
+[submodule "repos/vite"]
+	path = repos/vite
+	url = https://github.com/kurisu-agent/devpod-starter-vite.git
+[submodule "repos/tanstack-start"]
+	path = repos/tanstack-start
+	url = https://github.com/kurisu-agent/devpod-starter-tanstack-start.git
